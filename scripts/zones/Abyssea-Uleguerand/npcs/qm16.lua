@@ -4,6 +4,8 @@
 -- Spawns Apademak
 -- !pos -332 -156 346 253
 -----------------------------------
+local ID = zones[xi.zone.ABYSSEA_ULEGUERAND]
+-----------------------------------
 ---@type TNpcEntity
 local entity = {}
 

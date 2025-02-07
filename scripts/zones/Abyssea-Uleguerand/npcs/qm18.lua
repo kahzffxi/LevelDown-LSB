@@ -4,6 +4,8 @@
 -- Spawns Resheph
 -- !pos 433 -51 145 253
 -----------------------------------
+local ID = zones[xi.zone.ABYSSEA_ULEGUERAND]
+-----------------------------------
 ---@type TNpcEntity
 local entity = {}
 

@@ -4,6 +4,8 @@
 -- Spawns Pantokrator
 -- !pos -199 -175 155 253
 -----------------------------------
+local ID = zones[xi.zone.ABYSSEA_ULEGUERAND]
+-----------------------------------
 ---@type TNpcEntity
 local entity = {}
 

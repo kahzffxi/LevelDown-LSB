@@ -77,11 +77,20 @@ zones[xi.zone.ABYSSEA_ULEGUERAND] =
     },
     mob =
     {
-        APADEMAK                   = GetFirstID('Apademak'),
-        ISGEBIND                   = GetFirstID('Isgebind'),
-        IRONCLAD_TRITURATOR        = GetFirstID('Ironclad_Triturator'),
-        CHILLWING_HWITTI           = GetFirstID('Chillwing_Hwitti'),
-
+        APADEMAK_OFFSET     = GetFirstID('Apademak'),                  -- 3 Copies
+        ISGEBIND_OFFSET     = GetFirstID('Isgebind'),                  -- 3 Copies
+        PANTOKRATOR_OFFSET  = GetFirstID('Pantokrator'),               -- 3 Copies
+        RESHEPH_OFFSET      = GetFirstID('Resheph'),                   -- 3 Copies
+        IRONCLAD_TRITURATOR = GetFirstID('Ironclad_Triturator'),
+        CHILLWING_HWITTI    = GetFirstID('Chillwing_Hwitti'),
+        DHORME_KHIMAIRA     = GetFirstID('Dhorme_Khimaira'),
+        BLANGA              = GetFirstID('Blanga'),
+        YAGUAROGUI          = GetFirstID('Yaguarogui'),
+        KOGHATU             = GetFirstID('Koghatu'),
+        UPAS_KAMUY          = GetFirstID('Upas-Kamuy'),
+        VERI_SELEN          = GetFirstID('Veri_Selen'),
+        ANEMIC_ALOYSIUS     = GetFirstID('Anemic_Aloysius'),
+        AUDUMBLA            = GetFirstID('Audumbla'),
     },
     npc =
     {
