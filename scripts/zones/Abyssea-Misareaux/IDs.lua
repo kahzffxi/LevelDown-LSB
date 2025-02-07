@@ -74,8 +74,22 @@ zones[xi.zone.ABYSSEA_MISAREAUX] =
     },
     mob =
     {
-        SOBEK           = GetFirstID('Sobek'),
-        CIREIN_CROIN    = GetFirstID('Cirein-croin'),
+        AVALERION = GetFirstID('Avalerion'),
+        CEP_KAMUY = GetFirstID('Cep-Kamuy'),
+        FUNERAL_APKALLU = GetFirstID('Funereal_Apkallu'),
+        IRONCLAD_OBSERVER = GetFirstID('Ironclad_Observer'),
+        KARKATAKAM = GetFirstID('Karkatakam'),
+        MANOHRA = GetFirstID('Manohra'),
+        MINAX_BUGARD = GetFirstID('Minax_Bugard'),
+        NEHEBKAU = GetFirstID('Nehebkau'),
+        NONNO = GetFirstID('Nonno'),
+        NPFUNDLWA = GetFirstID('Npfundlwa'),
+        SIRRUSH = GetFirstID('Sirrush'),
+        TUSKERTRAP = GetFirstID('Tuskertrap'),
+        AMHULUK_OFFSET = GetFirstID('Amhuluk'),
+        CIREIN_CROIN_OFFSET = GetFirstID('Cirein-croin'), -- 3 Offsets +0 +5 +10
+        IRONCLAD_PULVERIZER = GetFirstID('Ironclad_Pulverizer'), -- 3 Offsets? +0 +5 +10
+        SOBEK = GetFirstID('Sobek'), -- 3 Offsets +0 +5 +10
     },
     npc =
     {
