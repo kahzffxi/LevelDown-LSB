@@ -14,7 +14,7 @@ entity.onTrade = function(player, npc, trade)
 end
 
 entity.onTrigger = function(player, npc)
-    -- xi.abyssea.qmOnTrigger(player, npc)
+    -- xi.abyssea.qmOnTrigger(player, npc, ID.mob.PANTOKRATOR, { xi.ki.WARPED_IRON_GIANT_NAIL, xi.ki.DENTED_CHARIOT_SHIELD })
 end
 
 entity.onEventUpdate = function(player, csid, option, npc)
